@@ -1,0 +1,11 @@
+{
+  "name": "breeze-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Syntax highlighting with warm and openness in mind",
+  "repository": "https://github.com/rschiang/breeze-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
