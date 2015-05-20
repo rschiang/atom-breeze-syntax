@@ -1,7 +1,7 @@
 {
   "name": "breeze-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "2.0.0",
   "description": "Syntax highlighting with warm and openness in mind",
   "repository": "https://github.com/rschiang/atom-breeze-syntax",
   "license": "MIT",
